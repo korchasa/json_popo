@@ -1,4 +1,4 @@
-# json-to-popo
+# json_popo
 Convert JSON to Plain Old PHP Objects
 
 ## Install 
