@@ -3,7 +3,7 @@ Convert JSON to Plain Old PHP Objects
 
 Installation:
 
-```composer global install korchasa\json_popo```
+```composer global require "korchasa/json_popo=*"```
 
 Usage:
 
