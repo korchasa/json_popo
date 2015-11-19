@@ -1,7 +1,7 @@
 {
     "name": "korchasa/json_popo",
     "description": "Convert JSON to Plain Old PHP Objects",
-	"version": "0.0.1-alpha",
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "korchasa",
