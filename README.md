@@ -1,10 +1,10 @@
 # json_popo
 Convert JSON to Plain Old PHP Objects
 
-## Install 
+Installation:
 
-composer global install korchasa\json_popo
+```composer global install korchasa\json_popo```
 
-#Usage
+Usage:
 
-json_popo < some.json > Object.php
+```json_popo < some.json > Object.php```
